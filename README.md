@@ -4,11 +4,17 @@ Take images
 
 <li>
 10 iris images
-</li>10 finger print images
-10 finger vein images
+</li>
+<li>10 finger print images
+</li>
+<li>10 finger vein images
+</li>
 
--Calculate the Discrete Wavelet transform of these images. You will get 4 outputs. 
--Determine the frequency components of these 4 outputs of each image.
+<li>Calculate the Discrete Wavelet transform of these images. You will get 4 outputs. 
+</li>
+<li>
+  Determine the frequency components of these 4 outputs of each image.
+</li>
 
 Put next to each other:
 the original image of an iris
