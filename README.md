@@ -2,8 +2,9 @@
 
 Take images
 
+<li>
 10 iris images
-10 finger print images
+</li>10 finger print images
 10 finger vein images
 
 -Calculate the Discrete Wavelet transform of these images. You will get 4 outputs. 
